@@ -1,0 +1,70 @@
+#SPHERE
+Radius 0 = 0.357
+Center 0 = vec3(-1.753000, 0.384000, -1.324000)
+Albido 0 = vec4(1.000000, 0.000000, 0.000000, 1.000000)
+Smoothness 0 = 1
+SpecularColor 0 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 0 = 0.088
+EmissionStrengh 0 = 0
+EmissionColor 0 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
+#SPHERE
+Radius 1 = 0.545
+Center 1 = vec3(-0.356000, 0.322000, -1.000000)
+Albido 1 = vec4(0.000000, 0.823529, 1.000000, 1.000000)
+Smoothness 1 = 0.496
+SpecularColor 1 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 1 = 0.604
+EmissionStrengh 1 = 0
+EmissionColor 1 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
+#SPHERE
+Radius 2 = 0.5
+Center 2 = vec3(1.000000, 0.000000, -1.000000)
+Albido 2 = vec4(0.676471, 0.000000, 1.000000, 1.000000)
+Smoothness 2 = 0.696
+SpecularColor 2 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 2 = 0.185
+EmissionStrengh 2 = 0
+EmissionColor 2 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
+#SPHERE
+Radius 3 = 0.5
+Center 3 = vec3(2.000000, 0.671000, -1.459000)
+Albido 3 = vec4(0.534764, 0.740196, 0.105224, 1.000000)
+Smoothness 3 = 1
+SpecularColor 3 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 3 = 0.519
+EmissionStrengh 3 = 0
+EmissionColor 3 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
+#SPHERE
+Radius 4 = 0
+Center 4 = vec3(0.000000, -1.000000, 0.000000)
+Albido 4 = vec4(0.910486, 1.000000, 0.000000, 1.000000)
+Smoothness 4 = 1
+SpecularColor 4 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 4 = 0.42
+EmissionStrengh 4 = 0
+EmissionColor 4 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
+#SPHERE
+Radius 5 = 0.357
+Center 5 = vec3(-1.753000, 1.254000, -0.204000)
+Albido 5 = vec4(1.000000, 0.640569, 0.000000, 1.000000)
+Smoothness 5 = 0.49
+SpecularColor 5 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 5 = 0.099
+EmissionStrengh 5 = 0
+EmissionColor 5 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
+#SPHERE
+Radius 6 = 0.637
+Center 6 = vec3(0.937000, 1.424000, -0.714000)
+Albido 6 = vec4(0.000000, 0.071174, 1.000000, 1.000000)
+Smoothness 6 = 1
+SpecularColor 6 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+SpecularProb 6 = 0.494
+EmissionStrengh 6 = 0
+EmissionColor 6 = vec4(1.000000, 1.000000, 1.000000, 1.000000)
+
